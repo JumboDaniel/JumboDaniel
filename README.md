@@ -1,6 +1,8 @@
 ### Hi there 👋
-![JumboDaniel](https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png style=centerme)
-
+<!--![JumboDaniel]()-->
+<p align="center">
+ <img src="https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png" alt="Sublime's custom image"/>"
+ </p>
 
 <p align="center">
 A full stack developer who loves intersteller travel, space war, history and science.<br>
@@ -13,10 +15,7 @@ A full stack developer who loves intersteller travel, space war, history and sci
 <br>
 <br>
 </p>
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
+
 
 <!--
 **JumboDaniel/JumboDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
