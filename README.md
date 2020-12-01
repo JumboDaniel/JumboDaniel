@@ -1,5 +1,5 @@
 ### Hi there 👋
-![JumboDaniel](https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png)
+![JumboDaniel](https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png style=centerme)
 
 
 <p align="center">
@@ -13,30 +13,10 @@ A full stack developer who loves intersteller travel, space war, history and sci
 <br>
 <br>
 </p>
-<h3>
-    
-```python
-​
-import json
-from dataclasses import asdict, dataclass
-
-
-@dataclass
-class Stack:
-    languages   : tuple = ("Python", "Bash")
-    databases   : tuple = ("PostgreSQL", "Mongo", "Redis")
-    misc        : tuple = ("Docker", "Celery")
-    ongoing     : tuple = ("Django", "GraphQL", "JavaScript")
-
-    def serialize(self):
-        return json.dumps(asdict(self), indent=4)
-
-
-stack = Stack()
-print(stack.serialize())
-​
-```
-</h3>
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 
 <!--
 **JumboDaniel/JumboDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
