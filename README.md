@@ -2,7 +2,7 @@
 ![JumboDaniel](https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png)
 
 <p align="center">
-A full stack developer who loves building tools, design, typography and Vocaloid.<br>
+A full stack developer who loves intersteller travel, space war, history and science.<br>
 <br>
 <a href="https://jumbodaniel.netlify.app">Portfolio Site</a>
  · <a href="https://twitter.com/JumboDaniel4">Twitter</a>
