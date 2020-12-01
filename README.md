@@ -1,5 +1,6 @@
 ### Hi there 👋
-![JumboDaniel](https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png)
+<!--![JumboDaniel]()-->
+<div style="text-align:center"><img src="https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png" /></div>
 
 <p align="center">
 A full stack developer who loves intersteller travel, space war, history and science.<br>
