@@ -12,7 +12,7 @@ A full stack developer who loves interstellar travel, space war, history and sci
  . <a href="mailto:jumbodaniel15@gmail.com">Mail</a>
 <br>
 <br>
- Your friend, father, confidant
+ Your friend, father, and confidant
 <br>
 <br>
 </p>
