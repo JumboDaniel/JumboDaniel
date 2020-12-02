@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm,
 <!--![JumboDaniel]()-->
 <p align="center">
  <img src="https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png" alt="Sublime's custom image"/>"
  </p>
 
 <p align="center">
-A full stack developer who loves intersteller travel, space war, history and science.<br>
+A full stack developer who loves interstellar travel, space war, history and science.<br>
 <br>
 <a href="https://jumbodaniel.netlify.app">Portfolio Site</a>
  · <a href="https://twitter.com/JumboDaniel4">Twitter</a>
+ . <a href="mailto:jumbodaniel15@gmail.com">Mail</a>
 <br>
 <br>
  Your friend, father, confidant
