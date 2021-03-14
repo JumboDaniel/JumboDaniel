@@ -1,4 +1,4 @@
-### Hi there 👋 I'm,
+### Hi there 👋 I'm
 <!--![JumboDaniel]()-->
 <p align="center">
  <img src="https://fontmeme.com/permalink/201201/33d0b06b529348fe187590f16bd52b41.png" alt="Sublime's custom image"/>"
